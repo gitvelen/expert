@@ -1,0 +1,3 @@
+# 逐字节保存 wiki 内容：不做任何 EOL 转换
+* -text
+*.md -text

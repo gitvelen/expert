@@ -1,0 +1,16 @@
+# LLM Wiki 桌面端易变状态（可再生、频繁重写的大文件）
+.llm-wiki/file-snapshot.json
+.llm-wiki/review.json
+.llm-wiki/file-change-queue.json
+.llm-wiki/dedup-queue.json
+.llm-wiki/ingest-queue.json
+.llm-wiki/lint.json
+# 注意：.llm-wiki/ingest-cache.json 保留入库（防重复入库注册表，重建成本高）
+
+# 系统杂项
+Thumbs.db
+desktop.ini
+~$*
+
+# LLM Wiki app 零字节临时残片（数千个）
+*.tmp

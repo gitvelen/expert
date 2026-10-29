@@ -1,0 +1,412 @@
+[
+  {
+    "id": "ingest-1789987342984-ahrqrf",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2009/供应链管理人才最高年薪60万_供应链管理.md",
+    "folderContext": "news > 04-业务基础 > 2009",
+    "status": "cancelled",
+    "addedAt": 1789987342984,
+    "error": null,
+    "retryCount": 1
+  },
+  {
+    "id": "ingest-1789987343048-rwqtxl",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2012/亚洲供应链集体折戟欧债_供应链技术.md",
+    "folderContext": "news > 04-业务基础 > 2012",
+    "status": "failed",
+    "addedAt": 1789987343048,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987343070-k2a4u6",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2013/冯嘉耀：自动化科技触发供应链之战_供应链技术.md",
+    "folderContext": "news > 04-业务基础 > 2013",
+    "status": "failed",
+    "addedAt": 1789987343070,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987343112-gvmhmz",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2014/新加坡留学：东亚管理学院物流供应链管理专业解读_供应链培训.md",
+    "folderContext": "news > 04-业务基础 > 2014",
+    "status": "cancelled",
+    "addedAt": 1789987343112,
+    "error": null,
+    "retryCount": 2
+  },
+  {
+    "id": "ingest-1789987343113-yfm9jk",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2014/易钱庄张祁：P2P存在问题 更专注020供应链平台_供应链管理.md",
+    "folderContext": "news > 04-业务基础 > 2014",
+    "status": "cancelled",
+    "addedAt": 1789987343113,
+    "error": null,
+    "retryCount": 1
+  },
+  {
+    "id": "ingest-1789987343125-qsgdl1",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2015/P2P网贷专业术语，赶紧收藏一份！_供应链融资.md",
+    "folderContext": "news > 04-业务基础 > 2015",
+    "status": "cancelled",
+    "addedAt": 1789987343125,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987343147-ln59r6",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2016/供应链金融大时代系列_星展银行：供应链金融的安全潜行者_供应链培训.md",
+    "folderContext": "news > 04-业务基础 > 2016",
+    "status": "failed",
+    "addedAt": 1789987343147,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987343726-270973",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/02-产品案例/2017/商业保理业务展望_保理.md",
+    "folderContext": "news > 02-产品案例 > 2017",
+    "status": "failed",
+    "addedAt": 1789987343726,
+    "error": "Analysis failed: LLM endpoint error 1301: [1301][系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。][20261012232337df79d841078b4a0d]",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987343809-wmioqz",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/02-产品案例/2018/首个原有上市品种引入境外交易者，铁矿石期货惊艳亮相国际舞台_大宗商品.md",
+    "folderContext": "news > 02-产品案例 > 2018",
+    "status": "cancelled",
+    "addedAt": 1789987343809,
+    "error": null,
+    "retryCount": 2
+  },
+  {
+    "id": "ingest-1789987344059-2c04dl",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2020/王文宏：疫情过后，拥抱产业互联网是企业的不二之选-观点.md",
+    "folderContext": "news > 03-行业研究 > 2020",
+    "status": "failed",
+    "addedAt": 1789987344059,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344061-rs79yr",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2020/申明江：疫情下供应链管理的风险与应对策略-观点.md",
+    "folderContext": "news > 03-行业研究 > 2020",
+    "status": "cancelled",
+    "addedAt": 1789987344061,
+    "error": null,
+    "retryCount": 1
+  },
+  {
+    "id": "ingest-1789987344064-bhqmn9",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2020/疫情之下，这家武汉企业挺身而出-趋势.md",
+    "folderContext": "news > 03-行业研究 > 2020",
+    "status": "cancelled",
+    "addedAt": 1789987344064,
+    "error": null,
+    "retryCount": 2
+  },
+  {
+    "id": "ingest-1789987344359-l4wgw0",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2022/陈祥锋新书《供应链金融》分享暨供应链金融现代化建设探讨：数据为王的时代，企业管理的重心是供应链管理现代化！-观点.md",
+    "folderContext": "news > 03-行业研究 > 2022",
+    "status": "failed",
+    "addedAt": 1789987344359,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344398-0jr6g8",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2023/中企云链——中国产业数字金融的领跑者-动态.md",
+    "folderContext": "news > 03-行业研究 > 2023",
+    "status": "failed",
+    "addedAt": 1789987344398,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344669-omvxti",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2024/星展银行于方：中国企业出海主要面临资金如何实现可视化、如何选择可靠金融服务商等挑战-观点.md",
+    "folderContext": "news > 03-行业研究 > 2024",
+    "status": "failed",
+    "addedAt": 1789987344669,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344762-o5jqo4",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2025/中美数字货币博弈白热化，中国以DCEP_香港稳定币复合结算创新模式破局美元霸权-观点.md",
+    "folderContext": "news > 03-行业研究 > 2025",
+    "status": "failed",
+    "addedAt": 1789987344762,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987345012-0mwnl8",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2026/俞毓斌谈跨境供应链法律风险：经济制裁、关税等贸易壁垒、欧盟ESG、知识产权以及数据合规……这些雷区，踩中一个就可能导致全盘皆输-观点.md",
+    "folderContext": "news > 03-行业研究 > 2026",
+    "status": "failed",
+    "addedAt": 1789987345012,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987345393-qlmc6f",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2013/中国组件在苹果供应链中地位大幅上升_供应链技术.md",
+    "folderContext": "news > 04-业务基础 > 2013",
+    "status": "failed",
+    "addedAt": 1789987345393,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987346185-saxy1q",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2021/银行秋招看门道 成为圈内追捧的金融科技人才要分几步走？-观点.md",
+    "folderContext": "news > 05-数字科技 > 2021",
+    "status": "failed",
+    "addedAt": 1789987346185,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987346284-olozlf",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2023/上海经信委：利用区块链技术提供可信供应链金融服务-政策.md",
+    "folderContext": "news > 05-数字科技 > 2023",
+    "status": "failed",
+    "addedAt": 1789987346284,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987346431-pjl3yc",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/DeepSeek“抢滩登陆潮”：赋能供应链智能化升级，这些头部供应链企业及供金平台纷纷宣布接入！-趋势.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346431,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346434-boedd1",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/《中国供应链服务及产融调查报告（2025）》正式发布：数智化、绿色化、全球化驱动供应链深度变革-趋势.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346434,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346436-0iqa7j",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/一套让地方经济突围的「内部框架」：9大路径、5种模式与建立合规可靠的PDCA数字化供应链体系-观点.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346436,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346439-gk3ac0",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/中晟供应链郇公弟深度剖析：服务国企数字化，供应链票据十大价值与三大服务-动态.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346439,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346441-jdpevn",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/以数智创新赋能产业链高质量发展_保理.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346441,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346443-5e3c4g",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/共生研究院正式发布三款人工智能产品-动态.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346443,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346446-r8syk1",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/告别融资难，破解损耗高！田头到餐桌，彭州这套“农产品数字仓单”模式盘活了整个“菜篮子”-趋势.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346446,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346449-jdcldi",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/地方国企的进阶之路：产业链集群生态延伸与数字化管控体系构建-观点.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346449,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346452-buot0q",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/建议转发收藏！从“纯放贷”到“既懂放贷又懂产业”，6大案例详解产投、金控、担保、银行、金融科技未来怎么转！-观点.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346452,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346456-0mv7bb",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/德生科技简伟光：数据要素运营实践与 “请进来、走出去、做起来” 合作之道-观点.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346456,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346459-5cz9db",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/数据资产如何重构供应链金融的风险定价与价值分配机制？_供应链方案.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346459,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346462-o11oq8",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/深度数科集团董事长全传晓九周年致信，以数字信任助推产业数字化-动态.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346462,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346464-yalp1d",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/这家银行供应链金融案例入选国家数据局“数据要素×”典型案例！_供应链培训.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346464,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346467-zms6y2",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/金融科技来抄作业！围绕肉牛、有色金属等场景搭数智供应链平台，让中小微“能贷上”，让银行“放心贷”-创新.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346467,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346469-2zcczj",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2025/首个eRWA红糖链品发布！董峰揭秘背后的商业闭环革命：资产端数字化才是正解-观点.md",
+    "folderContext": "news > 05-数字科技 > 2025",
+    "status": "pending",
+    "addedAt": 1789987346469,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346471-o7i4k3",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2026/中软创智林小彬：数智供应链重塑国家地标农产品价值，数据掌握行业话语权-观点.md",
+    "folderContext": "news > 05-数字科技 > 2026",
+    "status": "pending",
+    "addedAt": 1789987346471,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346473-28ouuq",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2026/从金融科技到产业互联网：一位“翻译官”的破壁之路——光谷金信副总经理孙文-动态.md",
+    "folderContext": "news > 05-数字科技 > 2026",
+    "status": "pending",
+    "addedAt": 1789987346473,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346476-87zip3",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2026/再见欧冶金服！这家钢铁金融“老兵”更名华宝数科：告别牌照依赖，以AI大模型重塑供应链-动态.md",
+    "folderContext": "news > 05-数字科技 > 2026",
+    "status": "pending",
+    "addedAt": 1789987346476,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346478-p2vvjv",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2026/大宗数字化避坑指南：别让几百万的平台，最后只剩一块验收牌匾-动态.md",
+    "folderContext": "news > 05-数字科技 > 2026",
+    "status": "pending",
+    "addedAt": 1789987346478,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346480-rqzzmb",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2026/数字化项目越来越卷，利润一年比一年薄！金融科技企业如何靠数智供应链做稳长期复利生意？-观点.md",
+    "folderContext": "news > 05-数字科技 > 2026",
+    "status": "pending",
+    "addedAt": 1789987346480,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1789987346484-plji86",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2026/监管重拳！数据资产ABS项目被全线叫停：城投借机套利路被堵死，伪创新行不通了-趋势.md",
+    "folderContext": "news > 05-数字科技 > 2026",
+    "status": "pending",
+    "addedAt": 1789987346484,
+    "error": "LLM not configured — set an ingest model in Settings, then resume",
+    "retryCount": 0
+  }
+]

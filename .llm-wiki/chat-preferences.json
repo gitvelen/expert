@@ -1,0 +1,11 @@
+{
+  "useWebSearch": false,
+  "useAnyTxtSearch": false,
+  "agentMode": "standard",
+  "retrievalMode": "standard",
+  "selectedSkills": [],
+  "disabledSkills": [
+    "swimlane-beta-troubleshooting",
+    "wecom-unified"
+  ]
+}

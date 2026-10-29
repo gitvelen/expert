@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ingest-1789987343070-k2a4u6",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2013/冯嘉耀：自动化科技触发供应链之战_供应链技术.md",
+    "folderContext": "news > 04-业务基础 > 2013",
+    "status": "failed",
+    "addedAt": 1789987343070,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987343147-ln59r6",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2016/供应链金融大时代系列_星展银行：供应链金融的安全潜行者_供应链培训.md",
+    "folderContext": "news > 04-业务基础 > 2016",
+    "status": "failed",
+    "addedAt": 1789987343147,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987343726-270973",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/02-产品案例/2017/商业保理业务展望_保理.md",
+    "folderContext": "news > 02-产品案例 > 2017",
+    "status": "failed",
+    "addedAt": 1789987343726,
+    "error": "Ingest incomplete: 1 truncated wiki file(s) could not be repaired: wiki/sources/4-news--7-02-产品案例--4-2017--10-商业保理业务展望保理--8z04h6.md",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344059-2c04dl",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2020/王文宏：疫情过后，拥抱产业互联网是企业的不二之选-观点.md",
+    "folderContext": "news > 03-行业研究 > 2020",
+    "status": "failed",
+    "addedAt": 1789987344059,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344359-l4wgw0",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2022/陈祥锋新书《供应链金融》分享暨供应链金融现代化建设探讨：数据为王的时代，企业管理的重心是供应链管理现代化！-观点.md",
+    "folderContext": "news > 03-行业研究 > 2022",
+    "status": "failed",
+    "addedAt": 1789987344359,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344398-0jr6g8",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2023/中企云链——中国产业数字金融的领跑者-动态.md",
+    "folderContext": "news > 03-行业研究 > 2023",
+    "status": "failed",
+    "addedAt": 1789987344398,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344669-omvxti",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2024/星展银行于方：中国企业出海主要面临资金如何实现可视化、如何选择可靠金融服务商等挑战-观点.md",
+    "folderContext": "news > 03-行业研究 > 2024",
+    "status": "failed",
+    "addedAt": 1789987344669,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987344762-o5jqo4",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/03-行业研究/2025/中美数字货币博弈白热化，中国以DCEP_香港稳定币复合结算创新模式破局美元霸权-观点.md",
+    "folderContext": "news > 03-行业研究 > 2025",
+    "status": "failed",
+    "addedAt": 1789987344762,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987345393-qlmc6f",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/04-业务基础/2013/中国组件在苹果供应链中地位大幅上升_供应链技术.md",
+    "folderContext": "news > 04-业务基础 > 2013",
+    "status": "failed",
+    "addedAt": 1789987345393,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1789987346185-saxy1q",
+    "projectId": "7d3e34b2-8554-4e98-addd-28e30e2132a7",
+    "sourcePath": "raw/sources/news/05-数字科技/2021/银行秋招看门道 成为圈内追捧的金融科技人才要分几步走？-观点.md",
+    "folderContext": "news > 05-数字科技 > 2021",
+    "status": "failed",
+    "addedAt": 1789987346185,
+    "error": "Analysis failed: error sending request for url (https://open.bigmodel.cn/api/anthropic/v1/messages)",
+    "retryCount": 3
+  }
+]
